@@ -4,5 +4,9 @@ Motors: Turnigy D2836/9 950KV
 GPS Type:UBLOX LEA-6H GPS (2.5m)
 No airspeed
 2200-5000mAh 3S LiPo battery
+3DR power module (battery monitoring)
+Telemetry radio
+6CH Rx
+Flight mode on RC5
 
 
