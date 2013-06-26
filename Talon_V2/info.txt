@@ -1,0 +1,8 @@
+
+Talon v 2.0 frame (550mm) quad
+Motors: Turnigy D2836/9 950KV
+GPS Type:UBLOX LEA-6H GPS (2.5m)
+No airspeed
+2200-5000mAh 3S LiPo battery
+
+
